@@ -12,6 +12,11 @@ by [Mike Schmitz](https://thesweetsetup.com/author/mikeschmitz/)
 
 [Obsidian](https://obsidian.md) has some basic support for tasks built in. But if you rely on notifications for when to do what, then you’re going to need a dedicated task manager. Fortunately, there’s a [Todoist plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin) for Obsidian that allows you to have the best of both worlds — you can capture tasks into Todoist directly and get notified on your devices when it’s time to do a task, but you can also embed those tasks into an Obsidian document so you can associate them with a particular project. In this video, I’m going to show you how to use the Todoist Sync community plugin to embed tasks using Todoist’s filters in Obsidian.
 
+
+```jsx
+Update the path for '**set DEPOT_HOME=**'  Assuming these packaging files are in the location specified in section  , this would be:  **set DEPOT_HOME=\\cseusdmls01\IncomingApps\RITM0761873\SAS94M6_Base\depot_subset\products**  Save and close text editor.
+```
+
 ## Setting up the Todoist Sync Plugin
 
 First, click on the gear icon in the lower left to access the Obsidian Settings:
